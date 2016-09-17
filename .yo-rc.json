@@ -1,0 +1,22 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "Mis  Gastos",
+      "appId": "com.conais.misgatos",
+      "ionicCss": false,
+      "bowerPackages": [
+        "localforage#~1.4.0"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "plugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-dialogs"
+      ],
+      "appModule": "misGastos",
+      "ecosystems": []
+    }
+  }
+}
